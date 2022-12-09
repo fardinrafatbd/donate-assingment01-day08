@@ -1,0 +1,86 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 65px;
+
+}
+h2{
+    font-size: 40px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+.middle-text{
+    text-align: center;
+    padding-top: 120px;
+}
+.link-button{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 17px;
+    background-color: tomato;
+    border-radius: 8px;
+    font-size: 20px;
+    border-color:transparent;
+}
+.padding-bottom{
+    padding-bottom: 30px;
+}
+#banner-item{
+    color: white;
+    background-image: url(images/donation5-edited.png);
+    background-repeat: no-repeat;
+    background-size: 1800px 700px;
+    height: 800px;
+
+}
+.amount-id{
+    color: rgb(104, 103, 103);
+    font-size: 30px;
+    background-color: rgb(243, 240, 240);
+    width:90px;
+    padding: 30px 30px;
+    margin: 10px 10px;
+}
+
+#donate-today{
+    display: flex;
+    margin-left: 25%;
+    margin-right: auto;
+    width: 60%
+
+}
+.align-center{
+    text-align: center;
+}
+.gray-para{
+    color: rgb(118, 114, 114);
+}
+#donate-tk{
+    color: tomato;
+    border: 3px solid tomato;
+    border-radius: 5px;
+}
+#donate-plan{
+    display: flex;
+    margin-left: 5%;
+}
+.donate-plan-box{
+    width:28%;
+    padding: 20px;
+    margin-left:20px;
+    border-radius: 5px;
+
+}
+#donate-plan-box-one{
+    background-color: rgb(202, 235, 223);
+
+}
+#donate-plan-box-two{
+    background-color: rgb(175, 246, 182);
+}
+#donate-plan-box-three{
+    background-color: rgb(232, 190, 182);
+}
