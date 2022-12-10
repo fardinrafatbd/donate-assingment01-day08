@@ -10,6 +10,7 @@ h2{
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0px 0px;
+    background-color: rgb(247, 245, 245);
 
 }
 .middle-text{
@@ -34,7 +35,6 @@ body{
     background-repeat: no-repeat;
     background-size: 1800px 700px;
     height: 800px;
-
 }
 .amount-id{
     color: rgb(104, 103, 103);
