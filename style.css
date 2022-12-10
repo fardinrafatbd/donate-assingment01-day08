@@ -9,7 +9,7 @@ h2{
 
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0;
+    margin: 0px 0px;
 
 }
 .middle-text{
@@ -23,7 +23,7 @@ body{
     background-color: tomato;
     border-radius: 8px;
     font-size: 20px;
-    border-color:transparent;
+    border: none;
 }
 .padding-bottom{
     padding-bottom: 30px;
@@ -55,13 +55,16 @@ body{
 .align-center{
     text-align: center;
 }
-.gray-para{
+p{
     color: rgb(118, 114, 114);
 }
 #donate-tk{
     color: tomato;
     border: 3px solid tomato;
     border-radius: 5px;
+}
+.gray-color{
+    color: gray;
 }
 #donate-plan{
     display: flex;
@@ -83,4 +86,54 @@ body{
 }
 #donate-plan-box-three{
     background-color: rgb(232, 190, 182);
+}
+#donate-today-sec{
+    background-color: rgb(251, 247, 247);
+    height: 550px;
+    box-shadow: 30px 10px 30px rgb(241, 129, 112);
+    
+
+}
+.padding-top{
+    padding-top: 30px;
+}
+#get-updates{
+    width: 40%;
+    margin: 0 auto;
+}
+#last-form{
+    width: 40%;
+    height: 100px;
+    background-color: antiquewhite;
+    text-align: center;
+    padding-top: 100px;
+    margin: 60px auto;
+    
+}
+#email{
+    border:none;
+    height: 28px;
+    width: 200px;
+    background-color: rgb(189, 186, 186);
+}
+#button{
+    border:none;
+    height: 30px;
+    width: 200px;
+    background-color: tomato;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: gainsboro;
+    height: 140px;
+    padding-top: 25px;
+}
+#footer-heading{
+    color: tomato;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
 }
