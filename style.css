@@ -29,6 +29,9 @@ body{
 .padding-bottom{
     padding-bottom: 30px;
 }
+.white-color{
+    color: white;
+}
 #banner-item{
     color: white;
     background-image: url(images/donation5-edited.png);
